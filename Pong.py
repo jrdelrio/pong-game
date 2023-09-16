@@ -6,7 +6,7 @@ import turtle
 import os
 
 win = turtle.Screen()
-win.title('Pong by @Rai')
+win.title('Pong by @jrdelrio')
 win.bgcolor('black')
 win.setup(width=800, height=600)
 win.tracer(10)
